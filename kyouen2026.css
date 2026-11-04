@@ -259,7 +259,9 @@ h5{
     text-align: center;
     color: aliceblue;
 }
-.pdf-link{
+.pdf-link,
+.pdf-link:link,
+.pdf-link:visited{
     color: aliceblue;
     font-size: 32px;
     font-weight: bold;
