@@ -259,7 +259,11 @@ h5{
     text-align: center;
     color: aliceblue;
 }
-
+.pdf-link{
+    color: aliceblue;
+    font-size: 32px;
+    font-weight: bold;
+}
 /*スマホ用レイアウト*/
 @media screen and (max-width: 600px) {
     img {
